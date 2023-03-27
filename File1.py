@@ -4,3 +4,4 @@ def greet(name):
 print(greet('Alex'))
 print("London is the capital of GB")
 print("Moscow is the capital of Russian Federation")
+print("Paris is the capital of France")
